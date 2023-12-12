@@ -7,3 +7,4 @@ set(CMAKE_CXX_STANDARD 20)
 add_compile_options(-Werror -Wall -Wextra -pedantic)
 
 add_subdirectory(01)
+add_subdirectory(02)
