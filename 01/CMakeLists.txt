@@ -1,4 +1,8 @@
-add_executable(01)
-target_sources(01
+add_executable(D01P01)
+target_sources(D01P01
     PUBLIC
-        main.cc)
+        P01.cc)
+add_executable(D01P02)
+target_sources(D01P02
+    PUBLIC
+        P02.cc)
