@@ -1,0 +1,7 @@
+---
+Checks:          'cppcoreguidelines-*,readability-*,clang-diagnostic-*,clang-analyzer-*'
+WarningsAsErrors: ''
+HeaderFilterRegex: ''
+CheckOptions:
+  readability-identifier-length.MinimumLoopCounterNameLength: '1'
+...
